@@ -14,7 +14,7 @@
 ### Let's Connect!  
 
 
- Fullstack Developer in React, Redux Toolkit, TypeScript, Express, MongoDB, and Styled Components. With a background in music from the conservatory and University of the Arts in Cuba, I bring a unique creative perspective to my coding. Having traveled extensively throughout Europe, I settled in Barcelona five years ago. Two years ago, I reignited my passion for programming, driven by my love for problem-solving, teamwork, and continuous skill development. I pursued programming studies through self-learning. Proud graduate of ISDI Coders in Barcelona. I thrive on collaborating with diverse teams to create innovative web solutions. Let's connect and build extraordinary experiences together!
+ Full stack Developer in React, Redux Toolkit, TypeScript, Express, MongoDB, and Styled Components. With a background in music from the conservatory and University of the Arts in Cuba, I bring a unique creative perspective to my coding. Having traveled extensively throughout Europe, I settled in Barcelona five years ago. Two years ago, I reignited my passion for programming, driven by my love for problem-solving, teamwork, and continuous skill development. I pursued programming studies through self-learning. Proud graduate of ISDI Coders in Barcelona. I thrive on collaborating with diverse teams to create innovative web solutions. Let's connect and build extraordinary experiences together!
 
   
   
@@ -22,13 +22,11 @@
 <br/>  
 
 
-## Rapidfire  
+## About me  
 <table><tr><td valign="top" width="50%">
 
 - 🎓 ISDI Coders graduate, embracing new challenges
 
-  
-  
 
 - 🌱 I’m currently learning Next.js  
   
